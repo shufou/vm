@@ -1,0 +1,6 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": 
+  {"usernum":"12123243","userstate":"有效","bindmail":"24325545@qq.com","bindphone":"13234356346"}
+}

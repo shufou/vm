@@ -1,0 +1,12 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+  {"type":"不知道","accoutname":"账号名称","company":"杭州xx有限公司","bankname":"中国银行","bankaccout":"132435","bankcur":"美金","contacks":"陈某人","review":"是"},
+  {"type":"不知道","accoutname":"账号名称","company":"杭州xx有限公司","bankname":"中国银行","bankaccout":"132435","bankcur":"美金","contacks":"陈某人","review":"是"},
+  {"type":"不知道","accoutname":"账号名称","company":"杭州xx有限公司","bankname":"中国银行","bankaccout":"132435","bankcur":"美金","contacks":"陈某人","review":"是"},
+  {"type":"不知道","accoutname":"账号名称","company":"杭州xx有限公司","bankname":"中国银行","bankaccout":"132435","bankcur":"美金","contacks":"陈某人","review":"是"},
+  {"type":"不知道","accoutname":"账号名称","company":"杭州xx有限公司","bankname":"中国银行","bankaccout":"132435","bankcur":"美金","contacks":"陈某人","review":"是"},
+  {"type":"不知道","accoutname":"账号名称","company":"杭州xx有限公司","bankname":"中国银行","bankaccout":"132435","bankcur":"美金","contacks":"陈某人","review":"是"}
+  ]
+}

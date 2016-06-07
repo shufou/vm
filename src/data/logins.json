@@ -1,0 +1,8 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": [
+  {"loginequ":"手机","logindate":"2016-07-07","logintime":"07:07","loginip":"12.12.12.12","logincity":"杭州"},
+  {"loginequ":"PC","logindate":"2016-07-07","logintime":"04:05","loginip":"07.07.07.07","logincity":"南京"}
+  ]
+}

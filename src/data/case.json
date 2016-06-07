@@ -1,0 +1,6 @@
+{
+  "code": 200,
+  "message": "获取成功",
+  "data": 
+  {"sumnum":"12","pickup":"23","waitnum":"34","enternum":"45","getnum":"56","award":"78"}
+}
